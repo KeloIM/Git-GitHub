@@ -83,16 +83,4 @@ article
 }
 
 
-@media screen and (max-width: 1024px)
-{
-	aside
-	{
-		display: none;
-	}
 
-	#corps
-	{
-		flex-direction: column;
-	}
-
-}
